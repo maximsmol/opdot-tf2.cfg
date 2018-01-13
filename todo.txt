@@ -19,6 +19,9 @@ ren/shadows/off
 ren/muzzle
   - does muzzle disable 1st_person muzzles as well
 
+ren/shadows/amount
+  - what does the value represent
+
 ren/max_cpu
   - ambient_boost setting
 
