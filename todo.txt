@@ -13,6 +13,13 @@ ren/muzzle
 ren/max_cpu
   - ambient_boost setting
 
+ren/_water
+  - r_ForceWaterLeaf
+
+ren/water/force_expensive
+ren/water/force_entity_reflection
+  - is it really forcing it from some other value?
+
 - _omit.cfg's
 
 - player custom files = sprays?
