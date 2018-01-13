@@ -1,5 +1,11 @@
 - autogen
 
+ren/aa
+  - no antialiasing line "commented due to HUD and overlay glitches, set it once and then comment it out"
+
+ren/aa/fsaa_*
+  - find proof in D3D9 doc for quality value meaning
+
 os/nix/net
   - -NoQueuedPacketThread
   - exec net/download/filter/none.cfg // Fixes possible crash on Linux due to library segfaulting
