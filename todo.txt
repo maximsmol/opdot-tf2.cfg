@@ -3,6 +3,9 @@
 ren/aa
   - no antialiasing line "commented due to HUD and overlay glitches, set it once and then comment it out"
 
+ren/filtering
+  - ? disable trilinear when enabling aniso
+
 ren/aa/fsaa_*
   - find proof in D3D9 doc for quality value meaning
 
