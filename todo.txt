@@ -1,0 +1,31 @@
+- autogen
+
+os/nix/net
+  - -NoQueuedPacketThread
+  - exec net/download/filter/none.cfg // Fixes possible crash on Linux due to library segfaulting
+
+ren/shadows/off
+  - probably don't need to exec all the configs
+
+ren/muzzle
+  - does muzzle disable 1st_person muzzles as well
+
+ren/max_cpu
+  - ambient_boost setting
+
+- _omit.cfg's
+
+- player custom files = sprays?
+- research world_light
+  - EMIT_SURFACE LIGHTS:
+  -
+  - Dim emit_surface lights go in the ambient cube because there are a ton of them and they are often so dim that
+  - they get filtered out by r_worldlightmin.
+  -
+  - (Dim) emit_surface lights only get calculated at runtime for static props because static props
+  - do the full calculation of ambient lighting at runtime instead of using vrad's per-leaf
+  - calculation. Vrad's calculation includes the emit_surfaces, so if we're NOT using it, then
+  - we want to include emit_surface lights here.
+  -
+  - r_worldlightmin keeps EMIT_SURFACE lights regardless of setting
+  - use r_worldlights to limit all lights
