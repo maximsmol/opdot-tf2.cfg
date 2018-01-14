@@ -3,6 +3,15 @@
 ren/decals/batch
   - auto enable for >18
 
+ren/pixel_visibility
+  - research
+  - something about occlusion proxies
+  - present in the source
+  - is partial visibility CPU impact ?
+
+ren/jiggle_bones
+  - CPU or GPU impact ?
+
 ren/sprays
   ? disabling should set lifetime to 0
 
