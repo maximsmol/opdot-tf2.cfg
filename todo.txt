@@ -6,6 +6,9 @@ ren/_particles
 ren/decals/batch
   - auto enable for >18
 
+ren/players/eyes/
+  ? min should not execute other settings
+
 ren/pixel_visibility
   - research
   - something about occlusion proxies
