@@ -1,5 +1,8 @@
 - autogen
 
+ren/_particles
+  - research r_particle_sim_spike_threshold_ms
+
 ren/decals/batch
   - auto enable for >18
 
