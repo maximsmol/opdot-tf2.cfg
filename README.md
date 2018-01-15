@@ -11,4 +11,4 @@ this config is a very heavily edited version of the great [mastermcomfig](https:
 # usage
 download the config files and place them under `steamapps/common/Team Fortress 2/tf/custom/opdot/cfg`
 
-further instructions will be posted as development goes on
+further instructions will be posted with v1.0.0
