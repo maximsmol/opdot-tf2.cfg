@@ -1,5 +1,8 @@
 - autogen
 
+ren/ropes
+  - research min/max width/alpha
+
 ren/pyro_vision
   - research pyro_vignette 1
 
