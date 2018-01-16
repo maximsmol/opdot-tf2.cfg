@@ -1,5 +1,8 @@
 - autogen
 
+ren/pyro_vision
+  - research pyro_vignette 1
+
 ren/_particles
   - research r_particle_sim_spike_threshold_ms
 
