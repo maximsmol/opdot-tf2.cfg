@@ -1,5 +1,23 @@
 - autogen
 
+ren/_opt
+  - research some of the leftover options
+
+ren/fog/fast
+  - research
+
+ren/occlusion/max_cpu
+
+ren/occlusion/stencil
+  - research
+  - enable for igpu?
+
+ren/occlusion/min_count
+  - masterm: use 1 occluder for perf balance between open and cluttered scenes
+
+ren/_opt
+  - benchmark r_worldlistcache as it seems to do nothing
+
 ren/ropes
   - research min/max width/alpha
 
@@ -20,6 +38,7 @@ ren/pixel_visibility
   - something about occlusion proxies
   - present in the source
   - is partial visibility CPU impact ?
+    - benchmark
 
 ren/jiggle_bones
   - CPU or GPU impact ?
