@@ -1,5 +1,12 @@
 - autogen
 
+match_making/debug
+  - tf_mm_debug_level
+
+engine
+  - research "Some systems are experiencing FPS caps well below the limit when FPS is limited as a result of a recent bug"
+  - research "some systems in Source assume an FPS limit of 300"
+
 ren/_opt
   - research some of the leftover options
 
