@@ -1,5 +1,9 @@
 - autogen
 
+net/split/avoid
+  - need a soft avoidance option for reliable split size
+    because it was present in comfig
+
 match_making/debug
   - tf_mm_debug_level
 
