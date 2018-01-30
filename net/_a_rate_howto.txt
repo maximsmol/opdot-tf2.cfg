@@ -1,0 +1,10 @@
+!!! rate = uploadspeed * 100,000 !!!
+
+calculation:
+upload speed is usually in Mbit/s (10^6 bits/s)
+rate is in B/s (bytes/s)
+=>
+  convert to MB/s (10^6 bytes/s): upload speed / 8
+  convert to B/s  (bytes/s)     : upload speed / 8 * 10^6
+  take 80% of that              : upload speed / 8 * 10^6 * 80%
+=> rate = upload speed * 10^5
