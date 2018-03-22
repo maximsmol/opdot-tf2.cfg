@@ -1,5 +1,27 @@
 - autogen
 
+snd/locking/partial
+  - research
+  - figure out the impact + what exactly it does
+
+snd/_opt
+  - is voice_buffer_ms only for the voice chat
+
+snd/spatialization/defer_trace
+  - why is snd_defer_trace beneficial
+
+snd/mix_ahead
+  - bad_cpu may be worse for bad cpus as more mixing has to be done increasing demand
+
+snd/dsp
+  - assumes that everyone uses stereo (max.cfg)
+
+snd/dsp/scaling
+  - research
+
+snd/dsp
+  - research dsp_automatic vs dsp_room
+
 net/split/avoid
   - need a soft avoidance option for reliable split size
     because it was present in comfig
