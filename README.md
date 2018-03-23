@@ -37,9 +37,9 @@ After installing the config it is recommended to amend some system-dependent def
 1. Start by creating a `main.cfg` under the `steamapps/common/Team Fortress 2/tf/cfg` folder (relative to your Steam installation).
 1. Find the appropriate rate settings using mastercomfig's [rate calculator](https://mastercoms.github.io/mastercomfig/upload/). Put them in your `main.cfg`.
 1. Add the module for your operating system
-  1. For Linux add `exec os/linux`
-  1. For Windows add `exec os/win`
-  1. For Mac add `exec os/mac`
+    1. For Linux add `exec os/linux`
+    1. For Windows add `exec os/win`
+    1. For Mac add `exec os/mac`
 1. Choose the module appropriate for your hardware:
 
 CPU Thread Count | SSD/HDD | Module
