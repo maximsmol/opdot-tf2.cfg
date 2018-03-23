@@ -33,7 +33,7 @@ Linux | ``
 Mac | `/Users/`username`/Library/Application Support/Steam/steamapps/common/Team Fortress 2/tf/custom/opdot-tf2/cfg` -->
 
 ## Usage
-After installing the config it is recommended to amend some system-dependent defaults (see [Usage](#usage)):
+After installing the config it is recommended to amend some system-dependent defaults:
 1. Start by creating a `main.cfg` under the `steamapps/common/Team Fortress 2/tf/cfg` folder (relative to your Steam installation).
 1. Find the appropriate rate settings using mastercomfig's [rate calculator](https://mastercoms.github.io/mastercomfig/upload/). Put them in your `main.cfg`.
 1. Add the module for your operating system
