@@ -6,8 +6,8 @@ This README is a part of version 0.1.0.
 ## Table of Contents
 1. [Overview](#overview)
 1. [Installation](#installation)
-    1. [Pre-packaged (recommended)]()
-    1. [From Source]()
+    1. [Pre-packaged (recommended)](#pre-packaged-recommended)
+    1. [From Source](#from-source)
 1. [Usage](#usage)
 1. [Design Goals](#design-goals)
 1. [Design](#design)
