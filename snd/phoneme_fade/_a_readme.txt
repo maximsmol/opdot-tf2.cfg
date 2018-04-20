@@ -1,1 +1,0 @@
-box-filter (basically averaging)
