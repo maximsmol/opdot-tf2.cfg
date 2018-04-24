@@ -1,7 +1,7 @@
 # opdot-TF2
 opdot-TF2 is a Team Fortress 2 configuration framework.
 
-This README is a part of version 0.1.0.
+This README is a part of version 0.2.0.
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -15,7 +15,7 @@ This README is a part of version 0.1.0.
 1. [Et Cetera](#et-cetera)
 
 ## Overview
-opdot-TF2 is an implementation of a new approach to TF2 configuration, but it is approximately equivalent to [mastercomfig](https://github.com/mastercoms/mastercomfig) version 6.2.1 if its more novel features are not used.
+opdot-TF2 is an implementation of a new approach to TF2 configuration, but it is approximately equivalent to [mastercomfig](https://github.com/mastercoms/mastercomfig) version 6.5.1 if its more novel features are not used.
 
 ## Installation
 ### Pre-packaged (recommended)
