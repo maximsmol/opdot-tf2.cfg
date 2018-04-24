@@ -22,7 +22,7 @@ opdot-TF2 is an implementation of a new approach to TF2 configuration, but it is
 No pre-packaged download is currently available. Do not expect one until a stable release (v1.0.0).
 
 ### From Source
-Place the contents of the repository in the `steamapps/common/Team Fortress 2/tf/custom/opdot-tf2/cfg` folder (relative to your Steam installation). Create any folders that do not exist.
+Place the contents of the `cfg` folder of this repository in the `steamapps/common/Team Fortress 2/tf/custom/opdot-tf2/cfg` folder (relative to your Steam installation). Create any folders that do not exist.
 
 <!-- Depending on your operating system the full path typically is:
 
