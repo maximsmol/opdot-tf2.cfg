@@ -75,7 +75,7 @@ Modules shall be expressive and safe: they shall make the wrong thing more diffi
 To be described
 
 ## Credits
-❤ Presently, opdot-TF2 is a re-imagining of [mastercomfig](https://github.com/mastercoms/mastercomfig) version 6.2.1. Omitted content can be found in the respective `_omit.txt` files. Also see [`intentional_differences.txt`](intentional_differences.txt). Original license in [LICENSE_3RD_PARTY](LICENSE_3RD_PARTY).
+❤ Presently, opdot-TF2 is a re-imagining of [mastercomfig](https://github.com/mastercoms/mastercomfig) version 6.5.1. Omitted content can be found in the respective `_omit.txt` files. Also see [`intentional_differences.txt`](intentional_differences.txt). Original license in [LICENSE_3RD_PARTY](LICENSE_3RD_PARTY).
 
 ## Et Cetera
 Versions are bumped according to the [Semantic Versioning](https://semver.org/) specification.
